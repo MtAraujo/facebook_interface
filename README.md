@@ -1,2 +1,2 @@
 # facebook_interface
-Facebook social network interface
+Facebook old interface
